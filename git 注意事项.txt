@@ -1,3 +1,6 @@
 git add ./  ---新增上去
 git commit -m 'lalala' ---commit注释信息
 git push  ---远程更新
+
+
+其他文件夹不能push，是因为orgin 不是自己而是数据源
